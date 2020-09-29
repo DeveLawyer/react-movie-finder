@@ -64,6 +64,8 @@ main {
 }
 
 .movie img {
+  height: 450px;
+  object-fit: cover;
   width: 100%;
 }
 
